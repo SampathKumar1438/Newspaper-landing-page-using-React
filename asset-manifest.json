@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SampathKumar1438/Newspaper-landing-page-using-React.git/static/css/main.dcc98e0f.css",
+    "main.js": "/SampathKumar1438/Newspaper-landing-page-using-React.git/static/js/main.ff1b001c.js",
+    "static/media/video2.mp4": "/SampathKumar1438/Newspaper-landing-page-using-React.git/static/media/video2.aa96256ab67191089cbf.mp4",
+    "static/media/video1.mp4": "/SampathKumar1438/Newspaper-landing-page-using-React.git/static/media/video1.7181e5085efa2fa1a880.mp4",
+    "index.html": "/SampathKumar1438/Newspaper-landing-page-using-React.git/index.html",
+    "main.dcc98e0f.css.map": "/SampathKumar1438/Newspaper-landing-page-using-React.git/static/css/main.dcc98e0f.css.map",
+    "main.ff1b001c.js.map": "/SampathKumar1438/Newspaper-landing-page-using-React.git/static/js/main.ff1b001c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcc98e0f.css",
+    "static/js/main.ff1b001c.js"
+  ]
+}
